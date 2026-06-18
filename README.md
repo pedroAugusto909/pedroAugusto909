@@ -29,6 +29,8 @@
   <a href="https://discord.gg/G9Gpg55A7S" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+  # ![gif de cobra](https://github.com/seu-nome-de-usuário/seu-nome-de-usuário/blob/output/github-contribution-grid-snake.gif)
+
 
   
   
