@@ -23,11 +23,11 @@
 ##
 
 <div>
-  <a href="https://www.youtube.com/channel/UC__uuuZbyBAat9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/G9Gpg55A7S" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.instagram.com/opedro_august?igsh=MW9lZzlwaGluOXRjMA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+ 
+  
 
  <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHMyZzh1NTZjdGh5bDBiZHk4dGh0bDA3bjNrbHFub3Zha2ZxNnZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cnk4ZRTlfeI32o/giphy.gif" alt="GIF" width="500">
