@@ -29,6 +29,11 @@
   <a href="https://discord.gg/G9Gpg55A7S" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+ <div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHMyZzh1NTZjdGh5bDBiZHk4dGh0bDA3bjNrbHFub3Zha2ZxNnZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cnk4ZRTlfeI32o/giphy.gif" alt="GIF" width="500">
+</div>
+
+
   # ![gif de cobra](https://github.com/pedroAugusto909/pedroAugusto909/blob/output/github-contribution-grid-snake.gif)
 
 
